@@ -1,0 +1,5 @@
+<samples>
+	
+	<simpletiled name="Summer" width="15" height="15" periodic="False" limit="15"/>
+	<simpletiled name="Summer" width="30" height="30" periodic="False" textOutput="True"/>
+</samples>

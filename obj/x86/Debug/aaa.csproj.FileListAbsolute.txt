@@ -1,0 +1,6 @@
+D:\Gitworking\WaveFunctionCollapse\obj\x86\Debug\aaa.csprojResolveAssemblyReference.cache
+D:\Gitworking\WaveFunctionCollapse\obj\x86\Debug\aaa.csproj.CoreCompileInputs.cache
+D:\Gitworking\WaveFunctionCollapse\bin\Debug\ConsoleApplication.exe
+D:\Gitworking\WaveFunctionCollapse\bin\Debug\ConsoleApplication.pdb
+D:\Gitworking\WaveFunctionCollapse\obj\x86\Debug\ConsoleApplication.exe
+D:\Gitworking\WaveFunctionCollapse\obj\x86\Debug\ConsoleApplication.pdb
